@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Ur-Git-Cat
+- 👋 Hi, I’m @caturrn
+-
 - 👀 I’m interested in Data, Back End and Embedded System
 - 🌱 I’m currently learning Data Engineer, Node JS and Java
 - 📫 You can reach me at caturrama97@gmail.com
